@@ -1,4 +1,4 @@
-#🧩 Solved SQL Puzzles
+# 🧩 Solved SQL Puzzles
 
 Welcome to the Solved SQL Puzzle repository! This project is a collection of SQL problem solutions sourced from HackerRank's SQL domain. 
 What you will find in this repository of the solutions that I found, note that these are not the only solution or the best solutions.
