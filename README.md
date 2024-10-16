@@ -19,6 +19,6 @@ Each solution is crafted to be efficient and intended to enhance understanding o
 
 ## Structure
 
-- /Easy: Contains solutions to beginner-friendly SQL challenges.
-- /Medium: Presents problems that require a deeper understanding of SQL concepts.
-- /Hard: Features complex puzzles for those who want to test their SQL expertise.
+- **/Easy:** Contains solutions to beginner-friendly SQL challenges.
+- **/Medium:** Presents problems that require a deeper understanding of SQL concepts.
+- **/Hard:** Features complex puzzles for those who want to test their SQL expertise.
