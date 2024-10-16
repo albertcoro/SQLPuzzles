@@ -16,3 +16,9 @@ The challenges in this repository cover a wide range of SQL topics, including:
 - Database optimization techniques
 
 Each solution is crafted to be efficient and intended to enhance understanding of SQL concepts. 
+
+## Structure
+
+- /Easy: Contains solutions to beginner-friendly SQL challenges.
+- /Medium: Presents problems that require a deeper understanding of SQL concepts.
+- /Hard: Features complex puzzles for those who want to test their SQL expertise.
